@@ -14,9 +14,3 @@
 - 📫 How to reach me **mathnyanlin@gmail.com**
 
 - ⚡ Fun fact **I'm like to listen music, problem sloving, analyst algorithm and teaching**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boris&show_icons=true&locale=en&layout=compact" alt="boris" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boris&show_icons=true&locale=en" alt="boris" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boris&" alt="boris" /></p>
